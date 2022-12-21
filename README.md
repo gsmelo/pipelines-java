@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/giovana-saraiva/Hands%20on%20pipelines/_apis/build/status/gsmelo.pipelines-java?branchName=main)](https://dev.azure.com/giovana-saraiva/Hands%20on%20pipelines/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
